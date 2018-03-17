@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TextViewFonts">
+        <attr name="dm_font" format="enum">
+            <enum name="aleida" value="0" />
+            <enum name="big_Pixel" value="1" />
+            <enum name="bold_and_Stylish_Calligraphy" value="2" />
+            <enum name="ce_GreenCorn_Regular" value="3" />
+            <enum name="ce_Halloween_Regular" value="4" />
+            <enum name="ce_SnowboardProject" value="5" />
+            <enum name="cherry_and_Kisses" value="6" />
+            <enum name="consequad_St" value="7" />
+            <enum name="convincing" value="8" />
+            <enum name="dancing_jungle" value="9" />
+            <enum name="dk_Grumpy_Tiger" value="10" />
+            <enum name="dk_bupkis" value="11" />
+            <enum name="featherScript" value="12" />
+            <enum name="kg_RiseUP" value="13" />
+            <enum name="kg_ShePersisted" value="14" />
+            <enum name="kittenMonoline" value="15" />
+            <enum name="leon_Regular" value="16" />
+            <enum name="les_Mousquetaires" value="17" />
+            <enum name="imsans8_oblique" value="18" />
+            <enum name="imsans8_regular" value="19" />
+            <enum name="imsans9_oblique" value="20" />
+            <enum name="imsans9_regular" value="21" />
+            <enum name="imsans10_bold" value="22" />
+            <enum name="imsans10_boldoblique" value="23" />
+            <enum name="imsans10_oblique" value="24" />
+            <enum name="imsans10_regular" value="25" />
+            <enum name="imsans12_oblique" value="26" />
+            <enum name="imsans12_regular" value="27" />
+            <enum name="imsans17_oblique" value="28" />
+            <enum name="imsans17_regular" value="29" />
+            <enum name="marioNett" value="30" />
+            <enum name="mcLetters" value="31" />
+            <enum name="niagra_Faults" value="32" />
+            <enum name="response" value="33" />
+            <enum name="sensations_and_Qualities" value="34" />
+            <enum name="shine" value="35" />
+            <enum name="sigismundus" value="36" />
+            <enum name="snow_riders_xo" value="37" />
+            <enum name="snow_riders_xs" value="38" />
+            <enum name="soft_Marshmallow" value="39" />
+            <enum name="sunny_Spring_Day" value="40" />
+            <enum name="tablaksh" value="41" />
+            <enum name="taylor_Regular" value="42" />
+            <enum name="tayloritalic_Regular" value="43" />
+            <enum name="the_Bad_Times_St" value="44" />
+            <enum name="tradizional" value="45" />
+            <enum name="typo_Angular_Rounded_Bold_Italic" value="46" />
+            <enum name="typo_Angular_Rounded_Bold" value="47" />
+            <enum name="typo_Angular_Rounded_Italic" value="48" />
+            <enum name="typo_Angular_Rounded_Light_Italic" value="49" />
+            <enum name="typo_Angular_Rounded_Light" value="50" />
+            <enum name="typo_Angular_Rounded_Thin_Italic" value="51" />
+            <enum name="typo_Angular_Rounded_Thin" value="52" />
+            <enum name="waltographUI" value="53" />
+            <enum name="white_Chocolate_Mint" value="54" />
+            <enum name="whortle" value="55" />
+            <enum name="wox_Modelist_Bold" value="56" />
+            <enum name="wox_Modelist_Hairline" value="57" />
+            <enum name="wox_Modelist_Italic" value="58" />
+            <enum name="april_flowers" value="59" />
+            <enum name="motionPicture" value="60" />
+            <enum name="arial_rounded" value="61" />
+            <enum name="segoe_print" value="62" />
+            <enum name="one" value="63" />
+            <enum name="sans_bold" value="64" />
+            <enum name="sans_regular" value="65" />
+        </attr>
+    </declare-styleable>
+
+</resources>

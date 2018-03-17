@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="com.engisoftware.dmtextview.MainActivity">
+
+
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:orientation="vertical">
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="arial rounded"
+               android:letterSpacing="0.1"
+               android:textSize="20sp"
+               app:dm_font="arial_rounded"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="aleida"
+               android:textSize="20sp"
+               android:textColor="@color/colorAccent"
+               app:dm_font="aleida"/>
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="april flowers"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="april_flowers"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="big Pixel"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="big_Pixel"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="bold and Stylish Calligraphy"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="bold_and_Stylish_Calligraphy"/>
+
+
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="cherry and Kisses"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="cherry_and_Kisses"/>
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="consequad St"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="consequad_St"/>
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="convincing"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="convincing"/>
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="segoe print"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="segoe_print"/>
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="one"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="one"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="dancing jungle"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="dancing_jungle"/>
+
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="dk bupkis"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="dk_bupkis"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="dk Grumpy Tiger"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="dk_Grumpy_Tiger"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="feather Script"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="featherScript"/>
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="imsans8 regular"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="imsans8_regular"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="imsans8 oblique"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="imsans8_oblique"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="kg Rise UP"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="kg_RiseUP"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="kg ShePersisted"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="kg_ShePersisted"/>
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="kitten Monoline"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="kittenMonoline"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="leon Regular"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="leon_Regular"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="les Mousquetaires"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="les_Mousquetaires"/>
+
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="marioNett"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="marioNett"/>
+
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="mc Letters"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="mcLetters"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="motion Picture"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="motionPicture"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="niagra Faults"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="niagra_Faults"/>
+
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="response"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="response"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="sans bold"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="sans_bold"/>
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="sans regular"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="sans_regular"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="sensations and Qualities"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="sensations_and_Qualities"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="shine"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="shine"/>
+
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="sigismundus"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="sigismundus"/>
+
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="snow riders xo"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="snow_riders_xo"/>
+
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="snow riders xs"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="snow_riders_xs"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="soft Marshmallow"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="soft_Marshmallow"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="sunny Spring Day"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="sunny_Spring_Day"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="tablaksh"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="tablaksh"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="taylor Regular"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="taylor_Regular"/>
+
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="taylor italic Regular"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="tayloritalic_Regular"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="the Bad Times St"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="the_Bad_Times_St"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="tradizional"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="tradizional"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="typo Angular Rounded Bold"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="typo_Angular_Rounded_Bold"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="typo Angular Rounded Light"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="typo_Angular_Rounded_Light"/>
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="typo Angular Rounded Thin"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="typo_Angular_Rounded_Thin"/>
+
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="waltograph UI"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="waltographUI"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="white Chocolate Mint"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="white_Chocolate_Mint"/>
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="whortle"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="whortle"/>
+
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="wox Modelist Bold"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="wox_Modelist_Bold"/>
+
+
+
+           <com.engisoftware.textviewfonts.TextViewFonts
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="wox Modelist Hairline"
+               android:textSize="20sp"
+               android:textColor="#000"
+               app:dm_font="wox_Modelist_Hairline"/>
+
+
+
+
+
+       </LinearLayout>
+   </ScrollView>
+
+
+</LinearLayout>

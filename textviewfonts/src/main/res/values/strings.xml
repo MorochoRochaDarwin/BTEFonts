@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">TextViewFonts</string>
+
+    <string-array name="fonts">
+        <item>Aleida.ttf</item>
+        <item>Big_Pixel.otf</item>
+        <item>Bold_and_Stylish_Calligraphy.ttf</item>
+        <item>CFGreenCorn_Regular.ttf</item>
+        <item>CFHalloween_Regular.ttf</item>
+        <item>CFSnowboardProject.ttf</item>
+        <item>Cherry_and_Kisses.ttf</item>
+        <item>Consequad_St.ttf</item>
+        <item>Convincing.ttf</item>
+        <item>DANCING_JUNGLE.ttf</item>
+        <item>DK_Grumpy_Tiger.otf</item>
+        <item>dk_bupkis.otf</item>
+        <item>FeatherScript.otf</item>
+        <item>KGRiseUP.ttf</item>
+        <item>KGShePersisted.ttf</item>
+        <item>KittenMonoline.ttf</item>
+        <item>Leon_Regular.ttf</item>
+        <item>Les_Mousquetaires.ttf</item>
+        <item>lmsans8_oblique.otf</item>
+        <item>lmsans8_regular.otf</item>
+        <item>lmsans9_oblique.otf</item>
+        <item>lmsans9_regular.otf</item>
+        <item>lmsans10_bold.otf</item>
+        <item>lmsans10_boldoblique.otf</item>
+        <item>lmsans10_oblique.otf</item>
+        <item>lmsans10_regular.otf</item>
+        <item>lmsans12_oblique.otf</item>
+        <item>lmsans12_regular.otf</item>
+        <item>lmsans17_oblique.otf</item>
+        <item>lmsans17_regular.otf</item>
+        <item>MarioNett.ttf</item>
+        <item>McLetters.ttf</item>
+        <item>Niagra_Faults.otf</item>
+        <item>response.otf</item>
+        <item>Sensations_and_Qualities.ttf</item>
+        <item>Shine.ttf</item>
+        <item>Sigismundus.ttf</item>
+        <item>snow_riders_xo.ttf</item>
+        <item>snow_riders_xs.ttf</item>
+        <item>Soft_Marshmallow.otf</item>
+        <item>Sunny_Spring_Day.ttf</item>
+        <item>tablaksh.ttf</item>
+        <item>taylor_Regular.ttf</item>
+        <item>tayloritalic_Regular.ttf</item>
+        <item>The_Bad_Times_St.ttf</item>
+        <item>tradizional.otf</item>
+        <item>Typo_Angular_Rounded_Bold_Italic.otf</item>
+        <item>Typo_Angular_Rounded_Bold.otf</item>
+        <item>Typo_Angular_Rounded_Italic.otf</item>
+        <item>Typo_Angular_Rounded_Light_Italic.otf</item>
+        <item>Typo_Angular_Rounded_Light.otf</item>
+        <item>Typo_Angular_Rounded_Thin_Italic.otf</item>
+        <item>Typo_Angular_Rounded_Thin.otf</item>
+        <item>waltographUI.ttf</item>
+        <item>White_Chocolate_Mint.ttf</item>
+        <item>Whortle.ttf</item>
+        <item>WOX_Modelist_Bold.otf</item>
+        <item>WOX_Modelist_Hairline.otf</item>
+        <item>WOX_Modelist_Italic.otf</item>
+        <item>April_Flowers.ttf</item>
+        <item>MotionPicture_PersonalUseOnly.ttf</item>
+        <item>ASansrounded.ttf</item>
+        <item>SegoePrint.ttf</item>
+        <item>one.ttf</item>
+        <item>sans_bold.ttf</item>
+        <item>sans_regular.ttf</item>
+    </string-array>
+
+
+</resources>
