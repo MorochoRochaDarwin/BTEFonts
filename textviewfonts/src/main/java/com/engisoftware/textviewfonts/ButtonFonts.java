@@ -6,21 +6,24 @@ import android.content.res.TypedArray;
 import android.graphics.Typeface;
 import android.support.annotation.Nullable;
 import android.util.AttributeSet;
-import android.widget.TextView;
+import android.widget.Button;
 
 /**
- * Created by DARWIN on 12/4/2017.
+ * Created by darwinmorocho on 17/3/18.
  */
 
 @SuppressLint("AppCompatCustomView")
-public class TextViewFonts extends TextView {
+public class ButtonFonts extends Button {
     private int pos;
 
-    public TextViewFonts(Context context) {
+
+
+
+    public ButtonFonts(Context context) {
         super(context);
     }
 
-    public TextViewFonts(Context context, @Nullable AttributeSet attrs) {
+    public ButtonFonts(Context context, @Nullable AttributeSet attrs) {
         super(context, attrs);
         TypedArray a = context.obtainStyledAttributes(attrs, R.styleable.TextViewFonts, 0, 0);
         pos = a.getInt(R.styleable.TextViewFonts_dm_font, 63);
@@ -36,7 +39,4 @@ public class TextViewFonts extends TextView {
         Typeface tf = Typeface.createFromAsset(getContext().getAssets(), "fonts/" + font);
         setTypeface(tf, 1);
     }
-
-
-
 }
