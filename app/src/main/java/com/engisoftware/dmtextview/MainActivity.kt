@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         btn_hello.setOnClickListener({
-            Toast.makeText(this, "Asombroso boton con fuente personalizada", Toast.LENGTH_LONG).show()
+            Toast.makeText(this, edit_text.text.toString(), Toast.LENGTH_LONG).show()
         })
     }
 }

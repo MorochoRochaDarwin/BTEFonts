@@ -13,18 +13,27 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
 
+
+            <com.engisoftware.textviewfonts.EditTextFonts
+                android:id="@+id/edit_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:dm_font="segoe_print"
+                android:hint="ingresa un texto"/>
+
             <com.engisoftware.textviewfonts.ButtonFonts
                 android:id="@+id/btn_hello"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Hello Button"
+                android:text="ver edit text result"
                 android:textAllCaps="false"
-                app:dm_font="one" />
+                app:dm_font="featherScript" />
 
             <com.engisoftware.textviewfonts.TextViewFonts
                 android:layout_width="wrap_content"
