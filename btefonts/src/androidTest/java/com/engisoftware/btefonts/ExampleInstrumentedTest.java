@@ -1,4 +1,4 @@
-package com.engisoftware.textviewfonts;
+package com.engisoftware.btefonts;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -20,14 +20,14 @@
             android:orientation="vertical">
 
 
-            <com.engisoftware.textviewfonts.EditTextFonts
+            <com.engisoftware.btefonts.EditTextFonts
                 android:id="@+id/edit_text"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:dm_font="segoe_print"
                 android:hint="ingresa un texto"/>
 
-            <com.engisoftware.textviewfonts.ButtonFonts
+            <com.engisoftware.btefonts.ButtonFonts
                 android:id="@+id/btn_hello"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -35,7 +35,7 @@
                 android:textAllCaps="false"
                 app:dm_font="featherScript" />
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:letterSpacing="0.1"
@@ -44,7 +44,7 @@
                 app:dm_font="arial_rounded" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="aleida"
@@ -52,7 +52,7 @@
                 android:textSize="20sp"
                 app:dm_font="aleida" />
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="april flowers"
@@ -61,7 +61,7 @@
                 app:dm_font="april_flowers" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="big Pixel"
@@ -70,7 +70,7 @@
                 app:dm_font="big_Pixel" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="bold and Stylish Calligraphy"
@@ -79,7 +79,7 @@
                 app:dm_font="bold_and_Stylish_Calligraphy" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="cherry and Kisses"
@@ -87,7 +87,7 @@
                 android:textSize="20sp"
                 app:dm_font="cherry_and_Kisses" />
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="consequad St"
@@ -95,7 +95,7 @@
                 android:textSize="20sp"
                 app:dm_font="consequad_St" />
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="convincing"
@@ -103,7 +103,7 @@
                 android:textSize="20sp"
                 app:dm_font="convincing" />
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="segoe print"
@@ -111,7 +111,7 @@
                 android:textSize="20sp"
                 app:dm_font="segoe_print" />
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="one"
@@ -120,7 +120,7 @@
                 app:dm_font="one" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="dancing jungle"
@@ -129,7 +129,7 @@
                 app:dm_font="dancing_jungle" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="dk bupkis"
@@ -138,7 +138,7 @@
                 app:dm_font="dk_bupkis" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="dk Grumpy Tiger"
@@ -147,7 +147,7 @@
                 app:dm_font="dk_Grumpy_Tiger" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="feather Script"
@@ -155,7 +155,7 @@
                 android:textSize="20sp"
                 app:dm_font="featherScript" />
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="imsans8 regular"
@@ -164,7 +164,7 @@
                 app:dm_font="imsans8_regular" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="imsans8 oblique"
@@ -173,7 +173,7 @@
                 app:dm_font="imsans8_oblique" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="kg Rise UP"
@@ -182,7 +182,7 @@
                 app:dm_font="kg_RiseUP" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="kg ShePersisted"
@@ -190,7 +190,7 @@
                 android:textSize="20sp"
                 app:dm_font="kg_ShePersisted" />
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="kitten Monoline"
@@ -199,7 +199,7 @@
                 app:dm_font="kittenMonoline" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="leon Regular"
@@ -208,7 +208,7 @@
                 app:dm_font="leon_Regular" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="les Mousquetaires"
@@ -217,7 +217,7 @@
                 app:dm_font="les_Mousquetaires" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="marioNett"
@@ -226,7 +226,7 @@
                 app:dm_font="marioNett" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="mc Letters"
@@ -235,7 +235,7 @@
                 app:dm_font="mcLetters" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="motion Picture"
@@ -244,7 +244,7 @@
                 app:dm_font="motionPicture" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="niagra Faults"
@@ -253,7 +253,7 @@
                 app:dm_font="niagra_Faults" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="response"
@@ -262,7 +262,7 @@
                 app:dm_font="response" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="roboto black"
@@ -271,7 +271,7 @@
                 app:dm_font="roboto_black" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="roboto bold"
@@ -280,7 +280,7 @@
                 app:dm_font="roboto_bold" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="roboto light"
@@ -289,7 +289,7 @@
                 app:dm_font="roboto_light" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="roboto medium"
@@ -298,7 +298,7 @@
                 app:dm_font="roboto_medium" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="roboto regular"
@@ -308,7 +308,7 @@
 
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="roboto thin"
@@ -320,7 +320,7 @@
 
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="sans bold"
@@ -328,7 +328,7 @@
                 android:textSize="20sp"
                 app:dm_font="sans_bold" />
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="sans regular"
@@ -337,7 +337,7 @@
                 app:dm_font="sans_regular" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="sensations and Qualities"
@@ -346,7 +346,7 @@
                 app:dm_font="sensations_and_Qualities" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="shine"
@@ -355,7 +355,7 @@
                 app:dm_font="shine" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="sigismundus"
@@ -364,7 +364,7 @@
                 app:dm_font="sigismundus" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="snow riders xo"
@@ -373,7 +373,7 @@
                 app:dm_font="snow_riders_xo" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="snow riders xs"
@@ -382,7 +382,7 @@
                 app:dm_font="snow_riders_xs" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="soft Marshmallow"
@@ -391,7 +391,7 @@
                 app:dm_font="soft_Marshmallow" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="sunny Spring Day"
@@ -400,7 +400,7 @@
                 app:dm_font="sunny_Spring_Day" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="tablaksh"
@@ -409,7 +409,7 @@
                 app:dm_font="tablaksh" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="taylor Regular"
@@ -418,7 +418,7 @@
                 app:dm_font="taylor_Regular" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="taylor italic Regular"
@@ -427,7 +427,7 @@
                 app:dm_font="tayloritalic_Regular" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="the Bad Times St"
@@ -436,7 +436,7 @@
                 app:dm_font="the_Bad_Times_St" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="tradizional"
@@ -445,7 +445,7 @@
                 app:dm_font="tradizional" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="typo Angular Rounded Bold"
@@ -454,7 +454,7 @@
                 app:dm_font="typo_Angular_Rounded_Bold" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="typo Angular Rounded Light"
@@ -462,7 +462,7 @@
                 android:textSize="20sp"
                 app:dm_font="typo_Angular_Rounded_Light" />
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="typo Angular Rounded Thin"
@@ -471,7 +471,7 @@
                 app:dm_font="typo_Angular_Rounded_Thin" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="waltograph UI"
@@ -480,7 +480,7 @@
                 app:dm_font="waltographUI" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="white Chocolate Mint"
@@ -489,7 +489,7 @@
                 app:dm_font="white_Chocolate_Mint" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="whortle"
@@ -498,7 +498,7 @@
                 app:dm_font="whortle" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="wox Modelist Bold"
@@ -507,7 +507,7 @@
                 app:dm_font="wox_Modelist_Bold" />
 
 
-            <com.engisoftware.textviewfonts.TextViewFonts
+            <com.engisoftware.btefonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="wox Modelist Hairline"

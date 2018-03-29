@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DMTextView.iml" filepath="$PROJECT_DIR$/DMTextView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/textviewfonts/textviewfonts.iml" filepath="$PROJECT_DIR$/textviewfonts/textviewfonts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/btefonts/btefonts.iml" filepath="$PROJECT_DIR$/btefonts/btefonts.iml" />
     </modules>
   </component>
 </project>
