@@ -1,5 +1,5 @@
 # BTEFonts
-Es una libreria para con TextView, EditText y Button con fuentes personalizadas
+Es una libreria para agregar TextView, EditText y Button con fuentes personalizadas a sus vistas.
 Para Android (API 16 o superior).
 
 
