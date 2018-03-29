@@ -265,6 +265,64 @@
             <com.engisoftware.textviewfonts.TextViewFonts
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:text="roboto black"
+                android:textColor="#000"
+                android:textSize="20sp"
+                app:dm_font="roboto_black" />
+
+
+            <com.engisoftware.textviewfonts.TextViewFonts
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="roboto bold"
+                android:textColor="#000"
+                android:textSize="20sp"
+                app:dm_font="roboto_bold" />
+
+
+            <com.engisoftware.textviewfonts.TextViewFonts
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="roboto light"
+                android:textColor="#000"
+                android:textSize="20sp"
+                app:dm_font="roboto_light" />
+
+
+            <com.engisoftware.textviewfonts.TextViewFonts
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="roboto medium"
+                android:textColor="#000"
+                android:textSize="20sp"
+                app:dm_font="roboto_medium" />
+
+
+            <com.engisoftware.textviewfonts.TextViewFonts
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="roboto regular"
+                android:textColor="#000"
+                android:textSize="20sp"
+                app:dm_font="roboto_regular" />
+
+
+
+            <com.engisoftware.textviewfonts.TextViewFonts
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="roboto thin"
+                android:textColor="#000"
+                android:textSize="20sp"
+                app:dm_font="roboto_thin" />
+
+
+
+
+
+            <com.engisoftware.textviewfonts.TextViewFonts
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:text="sans bold"
                 android:textColor="#000"
                 android:textSize="20sp"

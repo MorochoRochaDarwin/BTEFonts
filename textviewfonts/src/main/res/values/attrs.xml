@@ -69,6 +69,12 @@
             <enum name="one" value="63" />
             <enum name="sans_bold" value="64" />
             <enum name="sans_regular" value="65" />
+            <enum name="roboto_black" value="66" />
+            <enum name="roboto_bold" value="67" />
+            <enum name="roboto_light" value="68" />
+            <enum name="roboto_medium" value="69" />
+            <enum name="roboto_regular" value="70" />
+            <enum name="roboto_thin" value="71" />
         </attr>
     </declare-styleable>
 

@@ -68,6 +68,12 @@
         <item>one.ttf</item>
         <item>sans_bold.ttf</item>
         <item>sans_regular.ttf</item>
+        <item>Roboto_Black.ttf</item>
+        <item>Roboto_Bold.ttf</item>
+        <item>Roboto_Light.ttf</item>
+        <item>Roboto_Medium.ttf</item>
+        <item>Roboto_Regular.ttf</item>
+        <item>Roboto_Thin.ttf</item>
     </string-array>
 
 
