@@ -3,7 +3,7 @@ Es una librería para agregar TextView, EditText y Button con fuentes personaliz
 Para Android (API 16 o superior).
 
 
-#capturas
+## capturas
 
 Demo 1           |  Demo 2
 :-------------------------:|:-------------------------:
@@ -12,11 +12,11 @@ Demo 1           |  Demo 2
 
 
 
-#en sus layouts
+## En sus layouts
 
 
 
-EditTextFonts
+### EditTextFonts
 ```
  <com.engisoftware.btefonts.EditTextFonts
  android:id="@+id/edit_text"
@@ -26,7 +26,7 @@ EditTextFonts
  android:hint="ingresa un texto"/>
 ```
 
-TextViewFonts
+### TextViewFonts
 ```
   <com.engisoftware.btefonts.TextViewFonts
   android:layout_width="wrap_content"
@@ -37,7 +37,7 @@ TextViewFonts
   app:dm_font="roboto_thin" />
 ```
 
-ButtonFonts
+### ButtonFonts
 ```
 <com.engisoftware.btefonts.ButtonFonts
 android:id="@+id/btn_hello"
@@ -49,7 +49,7 @@ app:dm_font="featherScript" />
 ```
 
 
-#fuentes disponibles
+## Fuentes disponibles
 
         Aleida.ttf
         Big_Pixel.otf
