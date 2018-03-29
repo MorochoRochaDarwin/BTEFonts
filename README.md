@@ -4,7 +4,7 @@ Para Android (API 16 o superior).
 
 
 #capturas
-| demo 1 | demo 12 |
+
 | --- | --- |
 | ![](https://user-images.githubusercontent.com/15864336/38099865-50a9f390-3341-11e8-8f7a-2b639f2fa965.jpg) | ![](https://user-images.githubusercontent.com/15864336/38099866-50c513dc-3341-11e8-81ea-ea86c4d08fbb.jpg) |
 
