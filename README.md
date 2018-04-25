@@ -2,6 +2,25 @@
 Es una librería para agregar TextView, EditText y Button con fuentes personalizadas a sus vistas.
 Para Android (API 16 o superior).
 
+### Intalacion
+Add it in your root build.gradle at the end of repositories:
+```
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+
+
+Add the dependency
+```
+	dependencies {
+	        compile 'com.github.MorochoRochaDarwin:BTEFonts:v1.3.1'
+	}
+```
+
 
 ## capturas
 
