@@ -2,7 +2,7 @@
 Es una librería para agregar TextView, EditText y Button con fuentes personalizadas a sus vistas.
 Para Android (API 16 o superior).
 
-### Intalacion
+### Instalación
 Add it in your root build.gradle at the end of repositories:
 ```
 allprojects {
@@ -14,7 +14,7 @@ allprojects {
 ```
 
 
-Add the dependency
+Dentro de la carpeta app en el archivo build.gradle agregar la dependencia
 ```
 	dependencies {
 	        compile 'com.github.MorochoRochaDarwin:BTEFonts:v1.3.2'
