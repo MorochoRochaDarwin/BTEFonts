@@ -17,7 +17,7 @@ allprojects {
 Add the dependency
 ```
 	dependencies {
-	        compile 'com.github.MorochoRochaDarwin:BTEFonts:v1.3.1'
+	        compile 'com.github.MorochoRochaDarwin:BTEFonts:v1.3.2'
 	}
 ```
 
