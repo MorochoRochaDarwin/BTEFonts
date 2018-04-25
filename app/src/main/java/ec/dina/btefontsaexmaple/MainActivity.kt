@@ -1,4 +1,4 @@
-package com.engisoftware.dmtextview
+package ec.dina.btefontsaexmaple
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

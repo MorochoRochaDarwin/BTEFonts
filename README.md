@@ -37,7 +37,7 @@ Demo 1           |  Demo 2
 
 ### EditTextFonts
 ```
- <com.engisoftware.btefonts.EditTextFonts
+ <ec.dina.btefonts.EditTextFonts
  android:id="@+id/edit_text"
  android:layout_width="match_parent"
  android:layout_height="wrap_content"
@@ -47,7 +47,7 @@ Demo 1           |  Demo 2
 
 ### TextViewFonts
 ```
-  <com.engisoftware.btefonts.TextViewFonts
+  <ec.dina.btefonts.TextViewFonts
   android:layout_width="wrap_content"
   android:layout_height="wrap_content"
   android:text="roboto thin"
@@ -58,7 +58,7 @@ Demo 1           |  Demo 2
 
 ### ButtonFonts
 ```
-<com.engisoftware.btefonts.ButtonFonts
+<ec.dina.btefonts.ButtonFonts
 android:id="@+id/btn_hello"
 android:layout_width="wrap_content"
 android:layout_height="wrap_content"

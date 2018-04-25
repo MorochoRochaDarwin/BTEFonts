@@ -1,4 +1,4 @@
-package com.engisoftware.dmtextview
+package ec.dina.btefonts
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.engisoftware.dmtextview
+package ec.dina.btefonts
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
